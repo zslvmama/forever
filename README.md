@@ -41,3 +41,13 @@
 ## 從「想說」變「已說」
 
 打開那個檔案，把「狀態：想說」改成「狀態：已說」，補上「在：」就好。
+
+## 備份
+
+這個資料夾同步到 GitHub 私人 repo：https://github.com/zslvmama/to-mama
+
+每次記完新的一則，執行下面三行就會備份上去：
+
+    git add -A
+    git commit -m "新的一則"
+    git push
