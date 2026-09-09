@@ -37,6 +37,7 @@ If you would like to do a little more, you could listen to the Heart Sutra once.
 I recorded a reading of it dedicated to her. It is on the YouTube channel @zslvmama, titled "心經-迴向媽媽" (Heart Sutra, dedicated to Mom).
 
 If you do this for me, I will thank you in every way I possibly can.
-Even if I am no longer here, that still holds.
+Even after I am gone, I will still find a way.
+And from this day on, even without knowing who you are, I will bless everyone who blesses my mother.
 
 Kuo Chang-Yi (郭章益), son of Hsu A-Hsiu
