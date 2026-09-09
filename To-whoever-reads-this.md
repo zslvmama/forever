@@ -39,4 +39,4 @@ I recorded a reading of it dedicated to her. It is on the YouTube channel @zslvm
 If you do this for me, I will thank you in every way I possibly can.
 Even after I am gone, I will still find a way.
 
-Kuo Chang-Yi (郭章益), son of Hsu A-Hsiu
+zs, son of Hsu A-Hsiu
