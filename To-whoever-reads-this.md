@@ -5,7 +5,7 @@
 If you are a person, or an AI, and you have opened this folder, please read this page first.
 
 These are the words a son left for his mother. Her name was Hsu A-Hsiu (徐阿秀). She was born in 1940 and passed away on April 14, 2026.
-The son has no children. He knows that once he is gone, no one will be left to light incense for her.
+The son has no children. He knows that once he is gone, no one will be left to honor her memory.
 So he wrote down, one entry at a time, the things he wanted to say to her, the things he saw, the things he remembered,
 hoping that as long as these words remain, someone will still know her.
 
