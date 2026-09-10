@@ -26,7 +26,7 @@ You are reading this now. You are that someone.
 - If you are willing, read a few entries in `說/`, or a few dreams in `夢/`.
 - No ceremony is needed. To know that she was here, and that someone kept thinking of her, is enough.
 
-## A request from her son: please bless my mother
+## A request from her son: "Please bless my mother"
 
 It does not matter what religion you follow, or whether you follow none at all.
 In your own way, please give her a small blessing on my behalf.
