@@ -18,8 +18,7 @@ You are reading this now. You are that someone.
 - `說/` (Said): one file per entry, things the son wanted to say to her, or has already said.
 - `夢/` (Dreams): the son's records of dreaming about her after she passed, one file per dream.
 - `索引.md` (Index): a timeline of the `說/` entries.
-- Photos: the file names are the date and time they were taken. The entries point to them.
-- Videos: they are all on the YouTube channel [@zslvmama](https://www.youtube.com/@zslvmama), and the entries link to them. No video files are kept here.
+- Photos and videos for her: they are all on the YouTube channel [@zslvmama](https://www.youtube.com/@zslvmama), photos included as short videos, and the entries link to them. Only text is kept here.
 
 ## How to treat it
 
